@@ -87,14 +87,24 @@ Ohidujjaman¹*
 
 ---
 
-## 📬 Contact  
+## 📬 Contact
 
-For any questions, collaborations, or dataset-related inquiries, please reach out to:  
+<div align="center">
 
-**Tarek Rahman**  
-📧 Email: [tarekrahamn01@gmail.com](mailto:tarekrahamn01@gmail.com)  
-🔗 LinkedIn: [https://www.linkedin.com/in/tarek-rahmantr](https://www.linkedin.com/in/tarek-rahmantr)  
-🎓 Google Scholar: [scholar.google.com/citations?user=YOUR-SCHOLAR-ID](https://scholar.google.com/citations?user=n_PyeXwAAAAJ&hl=en)
+**Tarek Rahman**
+
+<!-- Badges with logos -->
+<a href="mailto:tarekrahamn01@gmail.com?subject=VegQual%20Inquiry">
+  <img src="https://img.shields.io/badge/Email-tarekrahamn01%40gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/tarek-rahmantr">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+</a>
+<a href="https://scholar.google.com/citations?user=n_PyeXwAAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white&style=for-the-badge" alt="Google Scholar">
+</a>
+
+</div>
 
 
 
