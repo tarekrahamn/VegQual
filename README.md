@@ -70,6 +70,14 @@ The dataset aims to assist researchers, students, and practitioners in developin
 
 
 ## 🧩 Contribution  
+**Authors:**  
+Tarek Rahman¹, Md Rahadul Islam Jishan¹, Robiul Islam¹, Md Rakibul Islam¹, and Jannatul Tajrian¹  
+
+**Supervisor:**  
+Ohidujjaman¹*  
+
+¹ Department of Computer Science and Engineering  
+*Corresponding author and project supervisor*
 
 
 ---
@@ -79,7 +87,18 @@ The dataset aims to assist researchers, students, and practitioners in developin
 
 ---
 
+## 📬 Contact  
 
+For any questions, collaborations, or dataset-related inquiries, please reach out to:  
+
+**Tarek Rahman**  
+📧 Email: [tarekrahamn01@gmail.com](mailto:tarekrahamn01@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/tarekrahamn01](https:www.linkedin.com/in/tarek-rahmantr)  
+🎓 Google Scholar: [scholar.google.com/citations?user=YOUR-SCHOLAR-ID](https://scholar.google.com/citations?user=n_PyeXwAAAAJ&hl=en)
+
+
+
+---
 
 
 ## 📜 Citation  
@@ -95,5 +114,6 @@ If you use this dataset or code in your research, please cite:
   publisher    = {Figshare},
   url          = {https://figshare.com/articles/dataset/_/30596084/0}
 }
+
 
 
