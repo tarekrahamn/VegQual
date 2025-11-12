@@ -63,11 +63,7 @@ git clone https://github.com/yourusername/VegQual.git
 # Navigate into the directory
 cd VegQual
 
-# Install dependencies
-pip install -r requirements.txt
 
-# Train YOLO model
-python train.py --data vegqual.yaml --weights yolov9.pt
+-----
 
-# Evaluate the model
-python test.py --weights runs/train/weights/best.pt --data vegqual.yaml
+## Citation
