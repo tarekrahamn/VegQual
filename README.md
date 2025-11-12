@@ -22,7 +22,7 @@ The dataset aims to assist researchers, students, and practitioners in developin
 ---
 
 ### 🧩 Key Highlights
-- **7 vegetable classes:** Tomato, Potato, Bitter Gourd, Pointed Gourd, Onion, Capsicum, and Brinjal  
+- **7 vegetable and 14 classes:** Tomato, Potato, Bitter Gourd, Pointed Gourd, Onion, Capsicum, and Brinjal  
 - **4,736 annotated images** (2,386 defected + 2,350 fresh samples)  
 - **High-quality annotations** in YOLO format  
 - **Benchmark results** available for **YOLOv9** and **YOLOv11**  
