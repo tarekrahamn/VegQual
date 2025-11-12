@@ -26,7 +26,7 @@ It includes *fresh* and *defected* samples across 7 vegetable types, collected u
 | **Total** | **2,386** | **2,350** |
 
 > **Total Images:** 4,736  
-> **Number of Classes:** 7  
+> **Number of Classes:** 14
 > **Annotations:** YOLO format (bounding boxes)
 
 ---
