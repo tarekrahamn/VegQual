@@ -7,8 +7,27 @@
 ---
 
 ## 🌱 Overview  
-**VegQual** is a specialized dataset designed to support defect detection and quality classification of vegetables using state-of-the-art **YOLO models (v9 & v11)**.  
-It includes *fresh* and *defected* samples across 7 vegetable types, collected under controlled conditions to ensure data consistency and realism.
+
+**VegQual** is a specialized multiclass image dataset designed for **real-time classification and defect detection of vegetables**.  
+The dataset contains images of both **fresh** and **defective** vegetables across **seven classes**, collected under diverse environmental and lighting conditions to ensure robustness and generalization.
+
+This dataset supports computer vision research focused on:
+- Quality assessment of agricultural produce  
+- Real-time defect detection systems  
+- Training and evaluation of **YOLO-based object detection models**  
+
+Each image in VegQual is annotated using the **YOLO format**, with bounding boxes that clearly identify the fresh or defected portions of vegetables.  
+The dataset aims to assist researchers, students, and practitioners in developing AI-driven solutions for improving agricultural quality inspection and reducing food waste.
+
+---
+
+### 🧩 Key Highlights
+- **7 vegetable classes:** Tomato, Potato, Bitter Gourd, Pointed Gourd, Onion, Capsicum, and Brinjal  
+- **4,736 annotated images** (2,386 defected + 2,350 fresh samples)  
+- **High-quality annotations** in YOLO format  
+- **Benchmark results** available for **YOLOv9** and **YOLOv11**  
+- Ideal for **machine learning, agriculture automation, and quality inspection systems**
+
 
 ---
 
