@@ -93,8 +93,8 @@ For any questions, collaborations, or dataset-related inquiries, please reach ou
 
 **Tarek Rahman**  
 📧 Email: [tarekrahamn01@gmail.com](mailto:tarekrahamn01@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/tarekrahamn01](https:www.linkedin.com/in/tarek-rahmantr)  
-🎓 Google Scholar: [scholar.google.com/citations?user=YOUR-SCHOLAR-ID](https://scholar.google.com/citations?user=n_PyeXwAAAAJ&hl=en)
+🔗 LinkedIn: [www.linkedin.com/in/tarek-rahmantr](https:www.linkedin.com/in/tarek-rahmantr)  
+🎓 Google Scholar: [https://scholar.google.com/citations?user=n_PyeXwAAAAJ&hl=en]()
 
 
 
