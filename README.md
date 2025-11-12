@@ -49,19 +49,32 @@ It includes *fresh* and *defected* samples across 7 vegetable types, collected u
 
 ---
 
+
 ## 🧩 Contribution  
 
 
 ---
 
-## 💻 Citation  
-If you use this dataset or code, please cite:
+## 💻 How to Use 
+
+
+---
+
+
+
+
+## 📜 Citation  
+
+If you use this dataset or code in your research, please cite:
+
+```bibtex
 @misc{rahman2025vegqual,
   author       = {Rahman, T. and Jishan, Md Rahadul Islam and Islam, Robiul and Islam, Md Rakibul and Tajrian, Jannatul},
   title        = {A Multiclass Dataset for Real-Time Fresh and Defective Vegetables},
   year         = {2025},
   month        = nov,
   publisher    = {Figshare},
-  url          ={https://figshare.com/articles/dataset/_/30596084/0}
+  url          = {https://figshare.com/articles/dataset/_/30596084/0}
 }
+
 
