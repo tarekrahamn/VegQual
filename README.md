@@ -1,6 +1,6 @@
 <!-- VegQual README (GitHub-Compatible HTML Version) -->
 <div align="center">
-  <h1>🥦 VegQual: A Quality-Based Vegetable Image Dataset for Defect Detection Using YOLO Models</h1>
+  <h1>🥦 VegQual: A Multiclass Dataset for Real-Time Detection of Fresh and Defective Vegetables Using Deep Learning</h1>
 
   <p>
     <a href="#"><img src="https://img.shields.io/badge/Paper-Link-blue?style=flat-square" alt="Paper"></a>
