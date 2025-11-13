@@ -86,8 +86,8 @@
       </tr>
     </thead>
     <tbody>
-      <tr><td>YOLOv9</td><td align="right">89.4</td><td align="right">92.6</td><td align="right">94.3</td><td align="right">90.8</td><td align="right">94.3</td></tr>
-      <tr><td>YOLOv11</td><td align="right">89.8</td><td align="right">89.2</td><td align="right">93.9</td><td align="right">89.4</td><td align="right">93.9</td></tr>
+      <tr><td>YOLOv9</td><td align="right">88.7</td><td align="right">92.6</td><td align="right">93.2</td><td align="right">90.6</td><td align="right">93.2</td></tr>
+      <tr><td>YOLOv11</td><td align="right">88</td><td align="right">90.5</td><td align="right">94.3</td><td align="right">89.23</td><td align="right">94.3</td></tr>
     </tbody>
   </table>
 </div>
