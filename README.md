@@ -80,14 +80,13 @@
         <th style="border:1px solid #ccc; padding:8px;">Model</th>
         <th style="border:1px solid #ccc; padding:8px;">Precision (%)</th>
         <th style="border:1px solid #ccc; padding:8px;">Recall (%)</th>
-        <th style="border:1px solid #ccc; padding:8px;">PR (%)</th>
         <th style="border:1px solid #ccc; padding:8px;">F1-score (%)</th>
         <th style="border:1px solid #ccc; padding:8px;">mAP@50 (%)</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td>YOLOv9</td><td align="right">88.7</td><td align="right">92.6</td><td align="right">93.2</td><td align="right">90.6</td><td align="right">93.2</td></tr>
-      <tr><td>YOLOv11</td><td align="right">88</td><td align="right">90.5</td><td align="right">94.3</td><td align="right">89.23</td><td align="right">94.3</td></tr>
+      <tr><td>YOLOv9</td><td align="right">89.6</td><td align="right">92.1</td><td  align="right">90.8</td><td align="right">94.4</td></tr>
+      <tr><td>YOLOv11</td><td align="right">89.8</td><td align="right">91.2</td><td align="right">90.5</td><td align="right">93.3</td></tr>
     </tbody>
   </table>
 </div>
