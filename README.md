@@ -26,7 +26,7 @@
     <li>Training and evaluation of <strong>YOLO-based object detection models</strong></li>
   </ul>
 
-  <p>Each image in VegQual is annotated using the <strong>YOLO format</strong>, with bounding boxes that
+  <p>Each image in this dqataset is annotated using the <strong>YOLO format</strong>, with bounding boxes that
   clearly identify fresh and defective instances. VegQual aims to help researchers, students, and practitioners
   build AI-driven solutions for improving agricultural quality inspection and reducing food waste.</p>
 
