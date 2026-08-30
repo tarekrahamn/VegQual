@@ -1,6 +1,6 @@
 <!-- VegQual README (GitHub-Compatible HTML Version) -->
 <div align="center">
-  <h1>🥦 VegQual: A Multiclass Dataset for Real-Time Detection of Fresh and Defective Vegetables Using Deep Learning</h1>
+  <h1>🥦 A Multiclass Dataset for Real-Time Detection of Fresh and Defective Vegetables Using Deep Learning</h1>
 
   <p>
     <a href="https://doi.org/10.1038/s41597-026-08167-2"><img src="https://img.shields.io/badge/Paper-Link-blue?style=flat-square" alt="Paper"></a>
@@ -13,7 +13,7 @@
 
 <div style="margin: 1.5rem 0;">
   <h2 style="color:#1E8449;">🌱 Overview</h2>
-  <p><strong>VegQual</strong> is a specialized multiclass image dataset designed for
+  <p>This is a specialized multiclass image dataset designed for
   <strong>real-time classification and defect detection of vegetables</strong>.
   The dataset contains images of both <strong>fresh</strong> and <strong>defective</strong> samples across
   <strong>seven vegetable types</strong>, collected under diverse environmental and lighting conditions to
