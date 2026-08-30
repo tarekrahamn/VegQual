@@ -113,7 +113,7 @@
   <p><strong>Supervisor:</strong><br>
   Ohidujjaman¹*</p>
 
-  <p>¹ Department of Computer Science and Engineering<br>
+  <p>¹ Department of Computer Science and Engineering at United International University <br>
   *Corresponding author and project supervisor</p>
 </div>
 
