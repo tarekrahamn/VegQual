@@ -3,7 +3,7 @@
   <h1>🥦 VegQual: A Multiclass Dataset for Real-Time Detection of Fresh and Defective Vegetables Using Deep Learning</h1>
 
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/Paper-Link-blue?style=flat-square" alt="Paper"></a>
+    <a href="https://doi.org/10.1038/s41597-026-08167-2"><img src="https://img.shields.io/badge/Paper-Link-blue?style=flat-square" alt="Paper"></a>
     <a href="https://doi.org/10.6084/m9.figshare.30596084.v1"><img src="https://img.shields.io/badge/Dataset-Download-green?style=flat-square" alt="Dataset"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"></a>
   </p>
